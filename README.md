@@ -18,7 +18,7 @@ A CSS project to practice CSS Variables and media queries. This project is a sim
 
 ## Live Demo
 
-[City Skyline](https://eddking-qs.github.io/CSS-Mini_Projects-City_Skyline/)
+[City Skyline](https://quintin-dev.github.io/CSS-Mini_Projects-City_Skyline/)
 
 ## Disclaimer
 

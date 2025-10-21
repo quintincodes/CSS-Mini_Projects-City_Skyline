@@ -10,19 +10,19 @@ A CSS project to practice CSS Variables and media queries. This project is a sim
 
 ## Features
 
--   CSS Variables
--   Media Queries
--   Linear Gradients
--   Flex Box
--   Responsive Design
+- CSS Variables
+- Media Queries
+- Linear Gradients
+- Flex Box
+- Responsive Design
 
 ## Live Demo
 
-[City Skyline](https://quintin-dev.github.io/CSS-Mini_Projects-City_Skyline/)
+[City Skyline](https://quintincodes.github.io/CSS-Mini_Projects-City_Skyline/)
 
 ## Disclaimer
 
--   This project will not be updated or maintained. It is a simple project to practice CSS Variables and media queries.
+- This project will not be updated or maintained. It is a simple project to practice CSS Variables and media queries.
 
 Feel fork this project and style it as you wish.
 
